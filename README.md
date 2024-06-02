@@ -40,7 +40,7 @@ This doesn't contain a demo, but you can find it on the address listed [here](ht
 
 ## Screenshots
 
-![Screenshot 1](Screenshots/Screenshots-1.jpg)
+![Screenshot 1](Screenshots/Screenshot-1.jpg)
 
 ![Screenshot 2](Screenshots/Screenshot-2.jpg)
 
